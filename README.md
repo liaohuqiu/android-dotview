@@ -1,13 +1,13 @@
 android-dotview
 ===============
 
-![alt tag](http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png)
+<div style="text-align:center">
+    <img src="http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png" width="540px"/>
+</div>
 
-<img src="http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png" width="540px"/>
 
+<h5>sample of layout xml</h5>
 
-Please visit the project home page for more information: [http://liaohuqiu.github.io/android-dotview](http://liaohuqiu.github.io/android-dotview)
-     
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="100dp" >
@@ -26,3 +26,6 @@ Please visit the project home page for more information: [http://liaohuqiu.githu
             
         </com.srain.views.DotView>
     </RelativeLayout>
+    
+    
+Please visit the project home page for more information: [http://liaohuqiu.github.io/android-dotview](http://liaohuqiu.github.io/android-dotview)
