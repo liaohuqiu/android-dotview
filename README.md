@@ -1,7 +1,7 @@
 android-dotview
 ===============
 
-    Please visit the project home page for more information: http://liaohuqiu.github.io/android-dotview
+Please visit the project home page for more information: [http://liaohuqiu.github.io/android-dotview](http://liaohuqiu.github.io/android-dotview)
      
     <RelativeLayout
         android:layout_width="match_parent"
