@@ -1,6 +1,7 @@
 android-dotview
 ===============
-        <RelativeLayout
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="100dp" >
 
