@@ -1,6 +1,11 @@
 android-dotview
 ===============
 
+![alt tag](http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png)
+
+<img src="http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png" width="540px"/>
+
+
 Please visit the project home page for more information: [http://liaohuqiu.github.io/android-dotview](http://liaohuqiu.github.io/android-dotview)
      
     <RelativeLayout
