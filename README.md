@@ -1,7 +1,7 @@
 android-dotview
 ===============
 
-<div style="text-align:center">
+<div style="text-align:center;">
     <img src="http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png" width="540px"/>
 </div>
 
