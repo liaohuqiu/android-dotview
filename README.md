@@ -1,6 +1,14 @@
 android-dotview
 ===============
-        <RelativeLayout
+
+<div style="text-align:center;">
+    <img src="http://www.liaohuqiu.net/android-dotview/images/dotview-demo.png" width="540px"/>
+</div>
+
+
+<h5>sample of layout xml</h5>
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="100dp" >
 
@@ -18,3 +26,6 @@ android-dotview
             
         </com.srain.views.DotView>
     </RelativeLayout>
+    
+    
+Please visit the project home page for more information: [http://liaohuqiu.github.io/android-dotview](http://liaohuqiu.github.io/android-dotview)
