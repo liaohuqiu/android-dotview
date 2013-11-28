@@ -115,6 +115,7 @@ public class DotView extends LinearLayout implements OnClickListener {
 		public LittleDot(Context context, int index) {
 			super(context);
 			mPaint = new Paint();
+			mPaint.setAntiAlias(true);
 			mIndex = index;
 		}
 
